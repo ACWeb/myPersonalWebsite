@@ -1,0 +1,2 @@
+<?php
+addCSS('tesing.css');

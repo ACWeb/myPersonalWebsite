@@ -1,0 +1,1 @@
+<?php die(); {"user-information":{"username":["test"],"email":["testing@test.com"],"email-status":["not-verified"],"email-code":[15508],"pass-hash":["19ecd5549837b5413a239db78b851363"]}}

@@ -1,0 +1,22 @@
+/*
+ * _1.0_ : Imports
+ * _2.0_ : General Styles
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ */
+/********** _1.0_ : Imports ***********/
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+/********** _2.0_ : General Styles ***********/
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+	font-family: 'Lato', sans-serif;
+}

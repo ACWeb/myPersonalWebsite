@@ -1,0 +1,1 @@
+<?php die(); {"user-information":{"username":["austin"],"email":["austcollins@hotmail.com"],"pass-hash":["78685c31448e5267e257c30c9fb14692"],"email-status":["verified"],"disabled":[true]},"permissions":{"view-admin-page":[true],"*":[true]}}

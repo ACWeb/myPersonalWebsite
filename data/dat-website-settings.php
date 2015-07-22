@@ -1,0 +1,1 @@
+<?php die(); {"theme":{"active":["default"]}}
